@@ -5,9 +5,14 @@
     padding: 2.5em 2em;
 }
 
+.cabeçalho{
+    color: var(--preto);
+}
+
 .banner__titulo {
     font-size: 18px;
     font-weight: 700;
+    color: var(--branco);
 }
 
 .banner__texto {
